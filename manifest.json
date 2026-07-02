@@ -1,0 +1,11 @@
+[
+  {
+    "id": "tool_25",
+    "idea": "A command\u2011line Python tool that scans a directory of automation scripts, extracts each script\u2019s docstring and comment\u2011based usage examples, and auto\u2011generates a concise README (or markdown table) listing script names, brief descriptions, required inputs, and example commands.",
+    "agent": "main",
+    "source": "self-built",
+    "origin_url": "",
+    "path": "tools/tool_25.py",
+    "uploaded_at": 1782989571.3669937
+  }
+]
