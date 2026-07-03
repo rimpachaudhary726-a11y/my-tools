@@ -7,5 +7,14 @@
     "origin_url": "",
     "path": "tools/tool_25.py",
     "uploaded_at": 1782989571.3669937
+  },
+  {
+    "id": "tool_34",
+    "idea": "A command\u2011line Python script that fetches the top\u202f10 trending GitHub repositories for a specified language (using the GitHub Trending API or scraping), then generates a ready\u2011to\u2011publish\u202fMarkdown report containing each repo\u2019s name, description, star count, and link.",
+    "agent": "main",
+    "source": "self-built",
+    "origin_url": "",
+    "path": "tools/tool_34.py",
+    "uploaded_at": 1783082028.084127
   }
 ]
